@@ -1,1 +1,1 @@
-# Sensor_efecto_Hall
+# Sensor_de_efecto_Hall
