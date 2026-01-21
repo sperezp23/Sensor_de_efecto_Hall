@@ -1,0 +1,14 @@
+# Datos extraídos de la gráfica
+# Temperatura (°C), Voltaje de salida (V)
+# Condiciones: VDD = 5V, TA = 25C
+-100, 0.86
+-80, 1.2
+-60, 1.4
+-40, 1.7
+-20, 2.1
+0, 2.5
+20, 2.7
+40, 3.1
+60, 3.4
+80, 3.8
+100, 4.21
